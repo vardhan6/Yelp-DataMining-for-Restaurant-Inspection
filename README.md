@@ -1,6 +1,7 @@
 # Yelp-DataMining-for-Restaurant-Inspection
 
 IDS591 Course Project
+
 •	Analysed yelp’s data set consisting of reviews and ratings on restaurants.
 
 •	Prediction of restaurant inspections based on the analysed data using machine learning algorithms in Hadoop.
